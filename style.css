@@ -1,0 +1,21 @@
+
+.ss{
+    display: grid;
+    grid-template-columns: 1fr 2fr ;
+    border: 1px solid aqua;
+    border-radius: 10px;
+    background-color: brown;
+    height: 250px;
+    width: 550px;
+
+.be{
+    border-radius: 10px 0 0 10px;
+}
+
+.p{
+    font-size: smaller;
+    font-family: 'Courier New', Courier, monospace;
+}
+.pad{
+    padding: 10px;
+}
